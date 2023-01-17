@@ -62,6 +62,7 @@ export const relays = [
   'wss://relay.nostrich.de',
   'wss://relay.nostr.scot',
   'wss://relay.nosphr.com',
+  'wss://nostr.thesimplekid.com'
 ]
 
 shuffle(relays)
